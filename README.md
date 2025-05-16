@@ -2,8 +2,8 @@
 # Discogs Data Analysis — Black Metal
 
 Languages:
-- [English](##english)
-- [Português](##português)
+- [English](#english)
+- [Português](#português)
 
 ## English
 
